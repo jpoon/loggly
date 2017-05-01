@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This chart bootstraps a loggly deployment on a [Kubernetes](http://kubernetes.io) cluster using the [Helm](https://helm.sh) package manager.
+This chart bootstraps a loggly deployment on a [Kubernetes](http://kubernetes.io) cluster using the [Helm](https://helm.sh) package manager. The work was largely inspired by https://www.loggly.com/blog/send-kubernetes-logs-loggly/.
 
 ## Prerequisites
 
